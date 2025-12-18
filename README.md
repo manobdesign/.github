@@ -1,1 +1,2 @@
-# .github
+# Manobdesign
+Designing products for humans!
